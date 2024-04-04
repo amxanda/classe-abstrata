@@ -1,5 +1,5 @@
 # Classe Abstrata
-- Atividade sobre classe abstrata
+Atividade sobre classe abstrata
 
 IDE e Linguagem utilizada: 
 <p align="">
